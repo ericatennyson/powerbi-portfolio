@@ -29,17 +29,16 @@ An interactive Power BI dashboard analyzing online retail sales performance.
 ---
 
 ## 📂 Repository Structure
----
-
+```
 powerbi-portfolio/
 │
 ├── ecommerce-sales-dashboard/
-│ ├── Ecommerce_Sales_Dashboard.pbix
-│ ├── Ecommerce_Sales_Dashboard.PNG
-│ └── README.md
+│   ├── Ecommerce_Sales_Dashboard.pbix
+│   ├── Ecommerce_Sales_Dashboard.PNG
+│   └── README.md
 │
 └── README.md
-
+```
 ---
 
 ## 👩‍💻 Author
