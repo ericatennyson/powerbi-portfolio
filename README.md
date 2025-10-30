@@ -1,7 +1,13 @@
 # 📊 Erica Tennyson | Power BI Portfolio
 
-Welcome to my Power BI portfolio!  
-This repository showcases my bilingual (EN/JP) data analytics projects, focusing on business intelligence, digital marketing, and data visualization.
+## About Me
+I am a bilingual (English–Japanese) data and communication professional with over ten years of experience in digital marketing analytics, reporting automation, and cross-cultural content evaluation.
+
+My background spans business intelligence, campaign performance analysis, and multilingual reporting for global clients in Japan and the U.S. I create data-driven insights and visualizations using Power BI, Excel, and GA4 to support strategic decision-making and process improvement.
+
+I am now expanding my portfolio into HR and workforce analytics, focusing on data-driven dashboards that support evidence-based decision-making in both public and private organizations.
+
+My goal is to apply analytics to enhance organizational effectiveness, transparency, and long-term performance.
 
 ---
 
