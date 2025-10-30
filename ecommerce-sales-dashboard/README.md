@@ -70,9 +70,9 @@ DimProduct ─┼──▶ FactSales ◀── DimCustomer
 ## 📂 Files Included
 | File | Description |
 |------|-------------|
-| `Ecommerce_Sales_Dashboard.pbix` | Power BI dashboard file |
-| `Ecommerce_Sales_Dashboard.PNG` | Dashboard preview image |
-| `README.md` | Project documentation |
+| [Ecommerce_Sales_Dashboard.pbix](./Ecommerce_Sales_Dashboard.pbix) | Power BI dashboard file |
+| [Ecommerce_Sales_Dashboard.PNG](./Ecommerce_Sales_Dashboard.PNG) | Dashboard preview image |
+| [README.md](./README.md) | Project documentation |
 
 ---
 
