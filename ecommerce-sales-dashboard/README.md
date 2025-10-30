@@ -96,7 +96,7 @@ This project demonstrates:
 
 **Erica Tennyson**  
 📍 Anderson, South Carolina, USA  
-🎓 Digital Marketing & Data Analytics (Bilingual JP/EN)  
+🎓 Digital Marketing & Business Intelligence (Bilingual JP/EN)  
 🔗 [LinkedIn](https://www.linkedin.com/in/erica-tennyson-sc/)
 
 ---
